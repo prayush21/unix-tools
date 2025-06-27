@@ -1,11 +1,11 @@
 package main
 
 import (
-	"ccwc/internal/ccwc"
 	"fmt"
 	"io"
 	"os"
 	"strings"
+	"unix-tools/internal/ccwc"
 )
 
 func main() {
