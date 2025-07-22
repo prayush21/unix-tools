@@ -5,7 +5,7 @@ ccwc is a simple command-line utility that counts the number of bytes in a speci
 ## Project Structure
 
 ```
-ccwc
+unix-tools
 ├── cmd
 │   └── ccwc
 │       └── main.go

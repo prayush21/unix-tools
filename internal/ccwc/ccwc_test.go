@@ -10,7 +10,7 @@ func TestCountBytes(t *testing.T) {
 		filename string
 		expected int64
 	}{
-		{"./testdata/test_small.txt", 40}, // Adjust the expected value based on the content of test_small.txt
+		{"../../testdata/test_small.txt", 40}, // File contains "This file is unintentionally left blank."
 	}
 
 	for _, test := range tests {
